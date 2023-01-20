@@ -2,5 +2,5 @@
 * By DevFoxie
 * Pour faire fonctionner le programme : 
 - vérifiez votre installation de python et pip.
-- installez tkinter : pip install tk
+- installez les librairies tkinter et pytube: pip install tk / pip install pytube.
 - lancez l'exécutable & enjoy :)
