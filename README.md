@@ -1,1 +1,2 @@
-* Programme pyhton pour lire un url youtube directement sur VLC.
+* Programme python pour lire un url youtube directement sur VLC.
+*By DevFoxie
